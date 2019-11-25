@@ -15,6 +15,8 @@ public class FksmTest1 {
 	public static void main(String[] args) {
 		System.out.println("Hello fksm!");
 
+		System.out.println("Pull Request Practice!");
+
 	}
 
 }
