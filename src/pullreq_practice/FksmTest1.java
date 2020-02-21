@@ -4,7 +4,7 @@
 package pullreq_practice;
 
 /**
- * @author HIROKI
+ * @author HIROKI　HAGE
  *
  */
 public class FksmTest1 {
