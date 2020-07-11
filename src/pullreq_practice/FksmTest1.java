@@ -22,6 +22,8 @@ public class FksmTest1 {
 		System.out.println("master commit!");
 
 		Sysetm.out.println("testcommit!");
+
+		System.out.println("branch 003 add");
 	}
 
 }
