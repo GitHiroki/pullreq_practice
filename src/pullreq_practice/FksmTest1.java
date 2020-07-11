@@ -19,8 +19,9 @@ public class FksmTest1 {
 
 		System.out.println("branch test!")
 
-		System.out.pringln("master commit!");
+		System.out.println("master commit!");
 
+		Sysetm.out.println("testcommit!");
 	}
 
 }
